@@ -1,279 +1,279 @@
-# 信息安全从业者书单推荐
+English Version
+# Information Security Practitioners Booklist Recommendation
+The book lists are classic books that have been personally read or recognized by the industry. Unlike the safety book lists listed on the Internet, all safety books on the online store are not listed. If you have any good book recommendations, you can submit it on `Issues`, or submit it for merging. After I read it, I will update it here if I think it is possible. The book list will also be updated from time to time.
 
-书单均是个人看过或者业界认可的经典书籍，跟网上罗列的安全书单不同，并非把网店上的各安全书籍都罗列上的。如果你有何好书推荐可在`Issues`上提交，或者提交合并，待我看过之后，如果觉得可以就会在此处更新，这里也会不定期更新书单。
+![](./Information Security Practitioners Booklist Recommendation.png)
 
-![](./信息安全从业者书单推荐.png)
+# Computer and system principle
+· "Coding: The Language Hidden Behind Computer Software and Hardware" [America] Charles Petzold
 
-# 计算机及系统原理
-· 《编码：隐匿在计算机软硬件背后的语言》 【美】Charles Petzold
+· "In-depth understanding of computer systems" [US] Randal E. Bryant
 
-· 《深入理解计算机系统》【美】Randal E.Bryant
+· "In-depth understanding of the Windows operating system" [US] Russinovich, M.E.; Solomon, D.A.
 
-· 《深入理解Windows操作系统》【美】Russinovich,M.E.；Solomon,D.A.
+· "Linux Kernel Design and Implementation" [US] Robert Love
 
-· 《Linux内核设计与实现》【美】Robert Love
+· "In-depth understanding of Android kernel design ideas" Lin Xuesen
 
-· 《深入理解Android内核设计思想》林学森
+· "Android System Source Code Scenario Analysis" Luo Shengyang
 
-· 《Android系统源代码情景分析》罗升阳
+· "In-depth understanding of Mac OS X & iOS operating system" [America] Jonathan Levin
 
-· 《深入理解Mac OS X & iOS操作系统》【美】Jonathan Levin
+· "In-depth understanding of the Linux kernel" [America] DanielP.Bovet
 
-· 《深入理解Linux内核》 【美】DanielP.Bovet
+· "Code Demystification: Exploring Computer Systems from the Perspective of C/C++" Zuo Fei
 
-· 《代码揭秘：从C/C++的角度探秘计算机系统》左飞
+· "Analysis of the Structure and Mechanism of Android Dalvik Virtual Machine (Volumes 1 and 2)" Wu Yanxia; Zhang Guoyin
 
-· 《Android Dalvik虚拟机结构及机制剖析（第1、2卷）》吴艳霞；张国印
+· "Android Internals::Power User's View" [US] Jonathan Levin, Chinese translation of "The Strongest Android Book: An Analysis of Architecture"
 
-· 《Android Internals::Power User's View》【美】Jonathan Levin，中译本《最强Android书：架构大剖析》
-
-# 编程开发
-## 系统平台
+# Programming development
+## the system platform
 ### Windows
-· 《Windows程序设计》【美】Charles Petzold
+· "Windows Programming" [America] Charles Petzold
 
-· 《Windows核心编程》【美】Jeffrey Richter
+· "Windows Core Programming" [US] Jeffrey Richter
 
-· 《Windows环境下32位汇编语言程序设计》罗云彬
+· "32-bit assembly language programming under Windows environment" Luo Yunbin
 
-· 《Windows驱动开发技术详解》张帆
+· "Detailed Explanation of Windows Driver Development Technology" Zhang Fan
 
 ### Linux/Unix
-· 《UNIX环境高级编程》【美】W.Richard Stevens；Stephen A.Rago
+· "Advanced Programming in UNIX Environment" [US] W. Richard Stevens; Stephen A. Rago
 
-· 《Linux程序设计》【美】Neil Matthew；Richard Stones
+· "Linux Programming" [US] Neil Matthew; Richard Stones
 
-· 《Linux设备驱动程序》【美】Jonathan Corbet；Alessandro Rubini；Gerg Kroah-Hartman
+· "Linux Device Drivers" [US] Jonathan Corbet; Alessandro Rubini; Gerg Kroah-Hartman
 
 ### macOS/iOS
-· 《iOS编程》【美】Christian Keur；Aaron Hillegass
+· "IOS Programming" [America] Christian Keur; Aaron Hillegass
 
-· 《OS X与iOS内核编程）【澳】Halvorsen,O.H.；Clarke,D
+· "OS X and iOS Kernel Programming) [Australia] Halvorsen, O.H.; Clarke, D
 
 ### Android
-· 《第一行代码——Android》郭霖
+· "The First Line of Code-Android" Guo Lin
 
-· 《Android编程权威指南》【美】Brian Hardy；BillPhillips
+· "The Definitive Guide to Android Programming" [US] Brian Hardy; BillPhillips
 
-## 编程语言
+## Programming language
 ### C
-· 《C语言程序设计》【美】Brian W.Kernighan；Dennis M.Ritchie
+· "C Language Programming" [America] Brian W. Kernighan; Dennis M. Ritchie
 
-· 《C Primer Plus》【美】Stephen Prata，入门书籍
+· "C Primer Plus" [America] Stephen Prata, introductory book
 
-· 《C和指针》【美】Kenneth A.Reek
+· "C and Pointer" [America] Kenneth A. Reek
 
-· 《C陷阱与缺陷》【美】Andrew Koenig
+· "C Traps and Defects" [US] Andrew Koenig
 
-· 《C专家编程》【美】Peter van der Linden
+· "C Expert Programming" [US] Peter van der Linden
 
 ### C++
-· 《C++ Primer Plus》【美】Stephen Prata，入门书籍
+· "C++ Primer Plus" [America] Stephen Prata, introductory book
 
-· 《C++ Primer》【美】Stanley B.Lippman；Josée Lajoie；Barbara E.Moo，进阶书籍
+· "C++ Primer" [US] Stanley B. Lippman; Josée Lajoie; Barbara E. Moo, advanced books
 
 ### ASM
-· 《Intel汇编语言程序设计》【美】Kip Irvine
+· "Intel Assembly Language Programming" [America] Kip Irvine
 
-· 《Intel开发手册》
+· "Intel Development Manual"
 
-· 《汇编语言（第3版）》王爽
+· "Assembly Language (3rd Edition)" Wang Shuang
 
-· 《x86汇编语言：从实模式到保护模式》李忠
+· "X86 Assembly Language: From Real Mode to Protected Mode" Li Zhong
 
 ### Java
-· 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
+· "Java Core Technology" [US] Cay S. Horstmann; Gary Cornell, introductory book
 
-· 《Java 编程思想》【美】Bruce eckel，进阶书籍
+· "Java Programming Thoughts" [America] Bruce eckel, advanced books
 
 ### JavaScript
-· 《JavaScript DOM编程艺术》【美】Jeremy Keith；【加】Jeffrey Sambells
+· "The Art of JavaScript DOM Programming" [America] Jeremy Keith; [Plus] Jeffrey Sambells
 
-· 《JavaScript高级程序设计》【美】Zakas.Bicholas C.
+· "JavaScript Advanced Programming" [US] Zakas. Bicholas C.
 
-· 《Vue.js项目开发实战》张帆
+· "Vue.js Project Development Actual Combat" Zhang Fan
 
 ### Python
-· 《Python核心编程（第2版）》【美】Wesley J·Chun
+· "Python Core Programming (Second Edition)" [US] Wesley J·Chun
 
 ### Shell
-· 《Linux Shell脚本攻略》【印】Sarath Lakshman
+· "Linux Shell Script Guide" [Print] Sarath Lakshman
 
-## 调试技术
-· 《软件调试》张银奎
+## Debugging technology
+· "Software Debugging" Zhang Yinkui
 
-· 《Debug Hacks》【日】吉冈弘隆；大和一洋；大岩尚宏；安部东洋；吉田俊辅
+· "Debug Hacks" [Japan] Hirotaka Yoshioka; Kazuyo Yamato; Naohiro Oiwa; Toyo Abe; Shunsuke Yoshida
 
-· 《格蠹汇编：软件调试案例锦集》张银奎
+· "Garden Compilation: A Collection of Software Debugging Cases" Zhang Yinkui
 
-## 数据结构与算法
-· 《数据结构与算法分析——C语言描述》【美】Mark Allen Weiss
+## Data Structures and Algorithms
+· "Data Structure and Algorithm Analysis-C Language Description" [US] Mark Allen Weiss
 
-· 《算法导论》【美】Thomas H.Cormen；Chales E.Leiserson；Ronald l.Rivest
+· "Introduction to Algorithms" [American] Thomas H. Cormen; Chales E. Leiserson; Ronald l. Rivest
 
-· 《我的第一本算法书》【日】宫崎修一；石田保辉，入门书籍，无代码进行图解
+· "My First Algorithm Book" [Japanese] Shuichi Miyazaki; Yasuhiro Ishida, introductory book, illustrated without code
 
-· 《算法图解：像小说一样有趣的算法入门书》【美】Aditya Bhargava
+· "A Graphical Algorithm: An Introduction to Algorithms as Interesting as a Novel" [America] Aditya Bhargava
 
-## 编译原理
-· 《编译系统透视：图解编译原理》新设计团队，入门书籍
+## Compilation principle
+· "Compilation System Perspective: Graphical Compilation Principles" new design team, introductory book
 
-· 《编译原理》（龙书）【美】Alfered V.Aho；Monica S.Lam；Ravi Sehi；Jeffrey D.Ullmam
+· "Principles of Compilation" (Dragon Book) [US] Alfered V.Aho; Monica S. Lam; Ravi Sehi; Jeffrey D. Ullmam
 
-· 《编译与反编译技术实战》庞建民
+· "Compilation and Decompilation Technology Actual Combat" Pang Jianmin
 
-## 其他
-· 《编程高手箴言》梁肇新
+## Other
+· "Programming Master Proverbs" Liang Zhaoxin
 
-· 《代码整洁之道》【美】Robert C.Martin
+· "The Way to Clean Code" [America] Robert C. Martin
 
-· 《代码大全》【美】Steve McConnell
+· "Code Book" [America] Steve McConnell
 
-· 《重构：改善既有代码的设计》【美】Martin Fowler
+· "Refactoring: Improving the Design of Existing Code" [America] Martin Fowler
 
-# 网络技术
-· 《TCP/IP详解（卷1：协议）》【美】Kevin R.fall；W.Richard Stevens
+# network technology
+· "Detailed Explanation of TCP/IP (Volume 1: Protocol)" [United States] Kevin R.fall; W. Richard Stevens
 
-· 《Wireshark数据包分析实战》【美】Chris Sanders
+· "Wireshark Packet Analysis in Action" [US] Chris Sanders
 
-# 安全技术
-## 安全开发
-· 《天书夜读：从汇编语言到Windows内核编程》谭文；邵坚磊
+# safety technology
+## Safe Development
+· "Book Night Reading: From Assembly Language to Windows Kernel Programming" Tan Wen; Shao Jianlei
 
-· 《Rootkit：系统灰色地带的潜伏者》【美】Bill Blunden
+· "Rootkit: The lurker in the grey area of ​​the system" [US] Bill Blunden
 
-· 《Rootkits——Windows内核的安全防护》【美】Gerg Hoglund；James Butler
+· "Rootkits-Windows Kernel Security Protection" [America] Gerg Hoglund; James Butler
 
-· 《BSD ROOTKIT设计——内核黑客指引书》【美】Joseph Kong
+· "BSD ROOTKIT Design-Kernel Hacking Guidelines" [America] Joseph Kong
 
-· 《寒江独钓：Windows内核安全编程》谭文；杨潇；邵坚磊
+· "Lone Fishing in the Cold River: Windows Kernel Security Programming" Tan Wen; Yang Xiao; Shao Jianlei
 
-## 逆向工程
-· 《加密与解密》段钢
+## Reverse Engineering
+· "Encryption and Decryption" Duan Gang
 
-· 《恶意软件分析诀窍与工具箱——对抗“流氓”软件的技术与利器》【美】Michael Hale Ligh；Steven Adair
+· "Malware Analysis Tips and Toolbox-Techniques and Weapons Against "Rogue" Software" [US] Michael Hale Ligh; Steven Adair
 
-· 《C++反汇编与逆向分析技术揭秘》钱林松；赵海旭
+· "C++ Disassembly and Reverse Analysis Technology Revealed" Qian Linsong; Zhao Haixu
 
-· 《IDA权威指南》【美】Chris Eagle
+· "IDA Authoritative Guide" [US] Chris Eagle
 
-· 《逆向工程权威指南》【乌克兰】Dennis Yurichev，多平台入门大全
+· "The Definitive Guide to Reverse Engineering" [Ukraine] Dennis Yurichev, Introduction to Multi-platform
 
-· 《Android软件安全与逆向分析》丰生强
+· "Android Software Security and Reverse Analysis" Feng Shengqiang
 
-· 《macOS软件安全与逆向分析》丰生强
+· "MacOS Software Security and Reverse Analysis" Feng Shengqiang
 
-· 《iOS应用逆向工程（第2版）》沙梓社；吴航
+· "IOS App Reverse Engineering (2nd Edition)" Sha Zishe; Wu Hang
 
-## Web安全
-· 《黑客攻防技术宝典：Web实战篇》【美】Marcus Pinto，Dafydd Stuttard
+## Web Security
+· "A Collection of Hacker Attack and Defense Technology: Web Practical Combat" [US] Marcus Pinto, Dafydd Stuttard
 
-· 《白帽子讲Web安全》吴翰清
+· "White Hat Talks about Web Security" Wu Hanqing
 
-· 《Web安全测试》【美】Paco Hope；Ben Waltber
+· "Web Security Test" [US] Paco Hope; Ben Waltber
 
-· 《Web前端黑客技术揭秘》钟晨鸣；徐少培
+· "The Secret of Web Front End Hacking Technology" Zhong Chenming; Xu Shaopei
 
-· 《精通脚本黑客》曾云好
+· "Proficient in Script Hacking" Zeng Yunhao
 
-## 软件/系统安全
-· 《0day安全：软件漏洞分析技术（第2版）》王清，入门书籍
+## Software/System Security
+· "0day Security: Software Vulnerability Analysis Technology (2nd Edition)" Wang Qing, introductory book
 
-· 《漏洞战争：软件漏洞分析精要》林桠泉，进阶书籍
+· "Vulnerability War: Essentials of Software Vulnerability Analysis" Lin Yaquan, advanced book
 
-· 《捉虫日记》【德】Tobias Klein，进阶书籍
+· "Insect Catcher Diary" [German] Tobias Klein, advanced book
 
-· 《黑客防线2009缓冲区溢出攻击与防范专辑》
+· "Hackers Defense 2009 Buffer Overflow Attack and Prevention Album"
 
-· 《内核漏洞的利用与防范》【美】Enrico Perla；Massimiliano Oldani
+· "Exploitation and Prevention of Kernel Vulnerabilities" [US] Enrico Perla; Massimiliano Oldani
 
-· 《Fuzzing for Software Security Testing and Quality Assurance（第2版）》【美】Charlie Miller，博文视点翻译中
+· "Fuzzing for Software Security Testing and Quality Assurance (Second Edition)" [US] Charlie Miller, blog post in translation
 
-· 《iOS Hackers's Handbook》【美】Charlie Miller，不推荐中文版
+· "IOS Hackers's Handbook" [America] Charlie Miller, Chinese version is not recommended
 
-· 《The Mac Hacker's Handbook》【美】Charlie Miller
+· "The Mac Hacker's Handbook" [America] Charlie Miller
 
-· 《Android安全攻防权威指南》【美】Joshua J.Drake；【西】Pau Oliva Fora；【美】Collin Mulliner
+· "The Definitive Guide to Android Security Attack and Defense" [America] Joshua J. Drake; [West] Pau Oliva Fora; [America] Collin Mulliner
 
-· 《The Art of Softwar Security Assessment:Identifying and Preventing Software Vulnerabilities》【美】Mark Dowd
+· "The Art of Softwar Security Assessment: Identifying and Preventing Software Vulnerabilities" [US] Mark Dowd
 
-· 《Android Security Cookbook》【美】Keith Makan; Scott Alexander-Bown，中译本《Android安全攻防实战》
+· "Android Security Cookbook" [US] Keith Makan; Scott Alexander-Bown, Chinese translation of "Android Security Attack and Defense"
 
-· 《模糊测试-强制性安全漏洞挖掘》【美】Michael Mutton
+· "Fuzzing-Mandatory Security Vulnerability Mining" [US] Michael Mutton
 
-· 《Exploit编写系列教程》【美】Corelan Team
+· "Exploit Writing Series Tutorials" [US] Corelan Team
 
-· 《MacOS and iOS Internals,Volume Ⅲ: Security & Insecurity》【美】Jonathan Levin，博文视点翻译中
+· "MacOS and iOS Internals, Volume Ⅲ: Security & Insecurity" [US] Jonathan Levin, blog post in translation
 
-· 《灰帽黑客：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术》【美】Allen Harper；Shon harris
+· "Gray Hat Hackers: Ethics, Penetration Testing, Attack Methods, and Vulnerability Analysis Techniques for Justice Hackers" [US] Allen Harper; Shon harris
 
-· 《威胁建模：设计和交付更安全的软件》【美】Adam Shostack
+· "Threat Modeling: Design and Deliver Safer Software" [US] Adam Shostack
 
-## 无线电安全
-· 《无线电安全攻防大揭秘》杨卿；黄琳
+## Radio Security
+· "The Secret of Radio Security Attack and Defense" Yang Qing; Huang Lin
 
-## 硬件安全
-· 《硬件安全攻防大揭秘》简云定；杨卿
+## Hardware Security
+· "Hardware Security Attack and Defense" Jian Yunding; Yang Qing
 
-## 汽车安全
-· 《智能汽车安全攻防大揭秘》李均；杨卿
+## Car safety
+· "The Big Secret of Smart Car Security" Li Jun; Yang Qing
 
-· 《汽车黑客大曝光》【美】Craig Smith
+· "Car Hacker Exposure" [US] Craig Smith
 
-## 业务安全
-· 《风控要略：互联网业务反欺诈之路》马传雷；孙奇；高岳
+## Business Security
+· "Risk Control Guidelines: The Road to Anti-fraud in Internet Business" Ma Chuanlei; Sun Qi; Gao Yue
 
-# 产品
-· 《人人都是产品经理》苏杰
+# Product
+· "Everyone is a Product Manager" Su Jie
 
-# 运营
-· 《运营之光2.0：我的互联网运营方法论与自白》黄有璨
+# Operation
+· "Operation Light 2.0: My Internet Operation Methodology and Confession" Huang Youcan
 
-# 设计
-· 《写给大家看的设计书》【美】Robin Williams
+# Design
+· "A Design Book for Everyone" 【America】Robin Williams
 
-· 《听故事，学PPT设计》杨雪
+· "Listen to Stories, Learn PPT Design" Yang Xue
 
-# 运维
-· 《Docker技术入门与实战》杨保华；戴王剑；曹亚仑
+# Operation and maintenance
+· "Docker Technology Introduction and Actual Combat" Yang Baohua; Dai Wangjian; Cao Yalun
 
-· 《鸟哥的Linux私房菜》鸟哥
+· "Brother Bird's Linux Private Kitchen" Brother Bird
 
-# 软技能
-· 《软技能：代码之外的生存指南》【美】John Sonmez
+# soft skill
+· "Soft Skills: A Survival Guide Beyond Code" [US] John Sonmez
 
-· 《程序员健康指南》【美】JoeKutner
+· "Programmer's Health Guide" [US] JoeKutner
 
-· 《影响力》【美】Robert B.Cialdini
+· "Influence" [America] Robert B. Cialdini
 
-· 《穷爸爸富爸爸》【美】Robert Toru Kiyosaki
+· "Poor Dad, Rich Dad" [America] Robert Toru Kiyosaki
 
-· 《横向领导力》【美】Roger Fisher；Alan Sharpe
+· "Horizontal Leadership" [US] Roger Fisher; Alan Sharpe
 
-· 《职业情商》张新越
+· "Career Emotional Intelligence" Zhang Xinyue
 
-· 《程序员的成长课》安晓辉；周鹏
+· "Programmer's Growth Lesson" An Xiaohui; Zhou Peng
 
-· 《高效演讲：斯坦福最受欢迎的沟通课》【美】Peter Meyers；Shann Nix
+· "Efficient Speaking: Stanford's Most Popular Communication Course" [US] Peter Meyers; Shann Nix
 
-· 《程序员的英语》【韩】朴栽浒；李海永
+· "Programmer's English" [Han] Park Jaehu; Lee Hae-yong
 
-· 《思考，快与慢》【美】丹尼尔·卡尼曼
+· "Thinking, Fast and Slow" [America] Daniel Kahneman
 
-· 《少有人走的路》【美】斯科特·派克
+· "The Road Fewer People Walk" [US] Scott Parker
 
-· 《异类：不一样的成功启示录》【加】 马尔科姆·格拉德威尔 
+· "Alien: A Different Success Revelation" [Plus] Malcolm Gladwell
 
-· 《见识》吴军
+· "Insight" Wu Jun
 
-· 《英语写作手册：风格的要素》【美】William Strunk
+· "English Writing Manual: Elements of Style" [US] William Strunk
 
-· 《非暴力沟通》【美】马歇尔·卢森堡 
+· "Non-violent Communication" [US] Marshall Luxembourg
 
-· 《风格感觉：21世纪写作指南》【美】史蒂芬·平克
+· "A Feeling of Style: A Guide to Writing in the 21st Century" [America] Steven Pinker
 
-· 《浪潮之巅》（上下册）吴军
+· "Top of the Wave" (Volume 2) Wu Jun
 
-· 《一本小小的蓝色逻辑书》【加】布兰登·罗伊尔
+· "A Little Blue Book of Logic" [Plus] Brandon Royle
 
-· 《精进：如何成为一个很厉害的人》采铜
+· "Jing Jin: How to Become a Very Good Person" copper mining
